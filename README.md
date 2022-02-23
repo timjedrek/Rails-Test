@@ -1,24 +1,6 @@
-# README
+# Rails Test
+Ruby on Rails test application for Heroku deployment.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created February 23, 2022 Tim Santos
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Visit: https://aqueous-gorge-37522.herokuapp.com
